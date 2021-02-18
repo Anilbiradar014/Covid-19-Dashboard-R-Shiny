@@ -1,5 +1,5 @@
 # Covid-19-Dashboard-R-Shiny
-[Click here](https://anilbiradar.shinyapps.io/Covid19Dashboard/ "Shiny App")to view the shiny app.The R shiny app is built to view the interactive visualisation for cumulative COVID-19 cases and the three-machine learning model output. The quick guide to use the shiny app is as follows: <br/>
+[Click here](https://anilbiradar.shinyapps.io/Covid19Dashboard/ "Shiny App") to view the shiny app.The R shiny app is built to view the interactive visualisation for cumulative COVID-19 cases and the three-machine learning model output. The quick guide to use the shiny app is as follows: <br/>
 <ul><li> By default, the Global COVID 19 Cases Tab is selected: This graphs allows you to understand the way the COVID-19 cases have increased across the globe.
 Please use the PLAY button located below the seek bar to visualize the growth of COVID-19.</li><br/>
   <li>The Second tab Graphs is used to show the COVID 19 number of confirmed cases,
